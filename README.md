@@ -1,4 +1,4 @@
-# Redisse
+# Redisse version 2
 
 Redisse is a Redis-backed Ruby library for creating [Server-Sent
 Events](http://www.w3.org/TR/eventsource/), publishing them from your
